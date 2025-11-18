@@ -7,7 +7,7 @@
 - 🔭 I’m a Front-End Developer specialized in React.js
 - 🌱 Currently learning TypeScript, Next.js, and Advanced React Patterns
 - 💬 Ask me about React, JavaScript, UI Development
-- 📫 How to reach me: your-email-here@example.com
+- 📫 How to reach me: 1aliashraf990@gmail.com
 - ⚡ I love building clean UI & smooth user experience!
 
 ---
